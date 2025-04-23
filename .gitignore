@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+.pnpm-debug.log
+
+# Next.js
+.next/
+out/
+
+# Rust
+target/
+Cargo.lock
+Cargo.toml.d/
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
